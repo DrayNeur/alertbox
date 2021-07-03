@@ -4,7 +4,7 @@ This is a simple library writen in vanilla javascript to create notification
 ### How to use ?
 > First step include the library to your project with this link or by downloading the file and uploading it on your own servers.
 ```HTML
-<script src="https://raw.githubusercontent.com/DrayNeur/alertbox/main/alertBox.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/DrayNeur/alertbox@main/alertBox.min.js"></script>
 ```
 > Now the only thing left to do is to use your brand enw set of popup / notification with cool animation.
 ```javascript
