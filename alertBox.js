@@ -3,7 +3,7 @@ const alertBox = () => {
     if (!container) {
         container = document.createElement("div");
         container.id = "alertboxcontainer";
-        container.style = "position: absolute; right: 10px; width: 300px; overflow: hidden;";
+        container.style = "position: absolute; right: 10px; width: 300px; overflow: hidden; top: 0;";
         document.body.append(container);
     }
     return {
